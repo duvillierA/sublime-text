@@ -3,15 +3,20 @@
 	"installed_packages":
 	[
 		"2pdf",
+		"BracketHighlighter",
 		"CSS Snippets",
 		"EJS",
 		"Emmet",
+		"Git",
 		"Handlebars",
 		"HtmlTidy",
 		"LESS",
 		"LineEndings",
 		"Package Control",
 		"SVN",
+		"Theme - Centurion Blue",
+		"Theme - Flatland",
+		"Theme - Soda",
 		"TrailingSpaces"
 	]
 }
