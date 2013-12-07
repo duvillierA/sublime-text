@@ -1,8 +1,11 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
-	"font_size": 14,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+  "default_encoding": "UTF-8",
+  "translate_tabs_to_spaces": true,
+  "tab_size": 2,
+  "ensure_newline_at_eof_on_save": true,
+  "trim_trailing_white_space_on_save": true
 }
